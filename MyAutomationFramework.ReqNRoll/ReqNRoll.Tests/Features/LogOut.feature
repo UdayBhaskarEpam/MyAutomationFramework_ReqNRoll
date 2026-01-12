@@ -1,4 +1,4 @@
-﻿Feature: LogOut
+﻿Feature: Logout
 
 A short summary of the feature
 

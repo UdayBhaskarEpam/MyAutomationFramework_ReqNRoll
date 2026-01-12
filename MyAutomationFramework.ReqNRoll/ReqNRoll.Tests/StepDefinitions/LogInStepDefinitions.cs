@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ReqNRollSauceDemo.Tests.StepDefinitions
 {
-    internal class LogInStepDefinitions
+    internal class LoginStepDefinitions
     {
     }
 }

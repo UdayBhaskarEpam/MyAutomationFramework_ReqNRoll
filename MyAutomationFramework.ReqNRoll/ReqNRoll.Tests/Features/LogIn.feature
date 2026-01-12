@@ -1,4 +1,4 @@
-﻿Feature: LogIn
+﻿Feature: Login
 
 A short summary of the feature
 
